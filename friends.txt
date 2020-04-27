@@ -1,0 +1,6 @@
+7 8 Bestfriends accepted
+8 4 Ondoklassniki accepted
+8 11 Namesake notaccepted
+6 4 Bestfriend notaccepted
+8 10 Bestfriend notaccepted
+8 9 Bestfriend notaccepted
